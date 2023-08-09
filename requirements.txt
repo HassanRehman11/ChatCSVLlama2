@@ -1,0 +1,11 @@
+streamlit
+pypdf
+pydantic==1.10.9
+langchain
+accelerate
+bitsandbytes
+transformers
+sentence_transformers
+faiss_gpu
+ctransformers
+streamlit_chat
